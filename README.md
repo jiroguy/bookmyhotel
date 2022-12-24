@@ -1,6 +1,7 @@
 # bookmyhotel
 Checkout Demo [Here]: https://jirosia27.wixsite.com/four-seasons-hotel
 
+
 ### Abstarct
 This project concentrates on building a website for a hotel. The website is based on html, CSS and JavaScript. It focuses on giving the costumer all the information about the hotel and its services. The website gives details of rooms with pictures and also supports a customer feedback system. Many hotel websites do not have a proper feedback or customer grievances redressal forms. Our project aims at developing the customer support mechanism. This project makes use of basic php and two jQuery plugins to make the webpages more dynamic.
 ### Objectives
